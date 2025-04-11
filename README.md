@@ -1,5 +1,3 @@
----
-
 **Weekly Jobs Strategy**  
 *A data-driven macroeconomic signal generator using Initial Jobless Claims*
 
